@@ -51,13 +51,6 @@
 | [crop_image_jetpackCompose](https://github.com/AbuSayedMasud/crop_image_jetpackCompose) | Image cropping with Jetpack Compose |
 | [ecomerce_webApi](https://github.com/AbuSayedMasud/ecomerce_webApi) | E-commerce Web API in C# / ASP.NET |
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbuSayedMasud&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuSayedMasud&layout=compact&hide_border=true" />
-</p>
-
 ### 🤝 Let's connect
 
 Open to conversations about **mobile banking, fintech apps, Kotlin Multiplatform and Flutter**. Reach me on [LinkedIn](https://www.linkedin.com/in/sayed-masud-26828b198).
